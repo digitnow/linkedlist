@@ -13,8 +13,8 @@ Implement doubly-linked list in Java and the following methods:
 ## Test-driven approach
 * modelling testing with the class __TestRunner__
 * modelling tests for the doubly-linked list with the class 
-  [TestDoublyLinkedList](exp/TestDoublyLinkedList.java)
-* doubly-linked list is modelled with the class [DoublyLinkedList](exp/DoublyLinkedList.java)
-* a node in the list is modelled with the class [Node](exp/Node.java)
+  [TestDoublyLinkedList](exp01/TestDoublyLinkedList.java)
+* doubly-linked list is modelled with the class [DoublyLinkedList](exp01/DoublyLinkedList.java)
+* a node in the list is modelled with the class [Node](exp01/Node.java)
 * traversing is modelled by with __TestTraverse__ function (similar to 
   _iterator_ method from Collection interface)
