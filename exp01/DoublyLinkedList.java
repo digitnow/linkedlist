@@ -4,7 +4,7 @@ public class DoublyLinkedList {
 
     String[] list;
 
-    public DoublyLinkedList();
+    public DoublyLinkedList;
 
     public DoublyLinkedList(String[] list) {
         this.list = list;

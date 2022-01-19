@@ -7,5 +7,6 @@ public class TestRunner {
         TestDoublyLinkedList testDoublyLinkedList = new TestDoublyLinkedList();
         //TestMap...
         //TestHashMap
+        System.out.println("PASS: TestDoublyLinkedList");
     }
 }
